@@ -7,3 +7,4 @@ print(data1)
 
 data3 = data.merge(data1, on='name',suffixes=('_1','_2'))
 print(data3)
+
